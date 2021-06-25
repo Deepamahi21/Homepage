@@ -1,4 +1,4 @@
-const clickCounter = document.querySelector('.footer .click-counter');
+const clickCounter = document.querySelector('.footer');
 let clickCnt = 0;
 
 //console log click function
